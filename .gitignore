@@ -1,0 +1,10 @@
+# Exclude large/local datasets from LAB-5
+LAB-5/data/
+
+# Exclude project utility and working directories
+Minor_Project-DL/tools/
+Minor_Project-DL/working/
+
+# Exclude ZIP archives inside Minor_Project-DL
+Minor_Project-DL/*.zip
+Minor_Project-DL/**/*.zip
